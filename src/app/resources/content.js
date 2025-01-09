@@ -153,7 +153,73 @@ const about = {
                         height: 9
                     },
                 ]
-            }
+            },
+            
+            {
+                title: 'RabbitMQ | Docker | AWS | Angular | WebSocket | MicroService | PHP | Python | MySQL',
+                description: <>I specialize in designing, developing, and maintaining scalable and efficient systems by leveraging modern tools and best practices. Using RabbitMQ, I manage message queues for asynchronous communication in distributed systems, ensuring reliable and scalable architectures. With Docker, I containerize applications to maintain consistency across environments, enabling rapid deployment and resource efficiency. On AWS, I utilize cloud services like EC2, S3, Elastic Beanstalk, CloudFront, RDS, and Lambda to deliver scalable, secure, and high-performance solutions. For front-end development, I build dynamic and responsive applications using Angular, focusing on maintainability and user experience. Through WebSocket, I implement real-time communication for seamless, low-latency interactions.
+
+                In a microservices context, I design distributed systems using Microservices architecture, ensuring modularity, scalability, and fault tolerance. For back-end development, I use PHP and Python, combining secure coding practices and automation to deliver clean and robust solutions. With MySQL, I manage relational databases, optimizing performance, scalability, and security.
+                
+                I incorporate CI/CD pipelines, automated testing, and container orchestration to streamline the development lifecycle, ensuring continuous delivery, reliability, and high-quality deployments across all projects.</>,
+                // optional: leave the array empty if you don't want to display images
+                images: [
+                    {
+                        src: '/images/projects/project-01/cover-04.jpg',
+                        alt: 'Project image',
+                        width: 12,
+                        height: 5
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-05.jpg',
+                        alt: 'Project image',
+                        width: 12,
+                        height: 5
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-06.jpg',
+                        alt: 'Project image',
+                        width: 12,
+                        height: 5
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-07.jpg',
+                        alt: 'Project image',
+                        width: 12,
+                        height: 5
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-08.jpg',
+                        alt: 'Project image',
+                        width: 12,
+                        height: 5
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-09.jpg',
+                        alt: 'Project image',
+                        width: 12,
+                        height: 5
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-10.jpg',
+                        alt: 'Project image',
+                        width: 12,
+                        height: 5
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-11.jpg',
+                        alt: 'Project image',
+                        width: 12,
+                        height: 5
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-12.jpg',
+                        alt: 'Project image',
+                        width: 12,
+                        height: 5
+                    },
+                ]
+            },
         ]
     }
 }
